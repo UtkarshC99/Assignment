@@ -7,4 +7,4 @@
  To view the associated Tableau dashboard, visit: https://public.tableau.com/app/profile/utkarsh2261/viz/SwiggyTop3Analysis/Dashboard1
  
  # Pipeline
- [`Scraper.ipynb`](https://github.com/UtkarshC99/SwiggyTop3Analysis/blob/main/Scraper.ipynb) > [`Insights and Recommendations.ipynb`](https://github.com/UtkarshC99/SwiggyTop3Analysis/blob/main/Insights%20and%20Recommendations.ipynb) > [`SwiggyTop3Analysis.twbx`](https://github.com/UtkarshC99/SwiggyTop3Analysis/blob/main/Dashboard/SwiggyTop3Analysis.twbx)
+ [`Scraper.ipynb`](https://github.com/UtkarshC99/SwiggyTop3Analysis/blob/main/Scraper.ipynb) > [`Insights and Recommendations.ipynb`](https://github.com/UtkarshC99/SwiggyTop3Analysis/blob/main/Insights%20and%20Recommendations.ipynb) > [`Tableau Dashboard`](https://public.tableau.com/app/profile/utkarsh2261/viz/SwiggyTop3Analysis/Dashboard1)
